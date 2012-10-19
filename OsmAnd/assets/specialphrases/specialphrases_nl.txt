@@ -1,6 +1,5 @@
-
 aerodrome,Luchthaven
-arts_centre,Kunstcollectief
+arts_centre,Kunstgallerij
 atm,Geldautomaat
 auditorium,Auditorium
 bank,Bank
