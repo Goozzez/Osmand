@@ -3,7 +3,7 @@ arts_centre,Kunstgallerij
 auditorium,Auditorium
 bank,Bank
 bar,Bar
-bench,Bankje
+bench,Zitbank
 bicycle_parking,Fietsenstalling
 bicycle_rental,Fietsverhuur
 brothel,Bordeel
@@ -12,13 +12,13 @@ bus_station,Busstation
 cafe,Café
 car_rental,Autoverhuur
 car_sharing,Autodelen
-car_sharing,carpooling
-car_wash,carwash
-car_wash,Autowasstraat
+car_sharing,Carpooling
+car_wash,Carwash
+car_wash,Wasstraat
 casino,Casino
 cinema,Bioscoop
 cinema,Cinema
-clinic,Kliniek
+clinic,Ziekenhuis
 club,Club
 college,Hogeschool
 community_centre,Gemeenschapscentrum
@@ -38,7 +38,7 @@ fire_hydrant,Brandkraan
 fire_station,Brandweer
 fountain,Fontein
 fuel,Brandstof
-fuel,Benzine pomp
+fuel,Brandstoffen
 grave_yard,Begraafplaats
 gym,Fitnesscentrum
 hall,Hal
@@ -46,7 +46,7 @@ health_centre,Gezondheidscentrum
 hospital,Ziekenhuis
 hotel,Hotel
 hunting_stand,Jachttoren
-ice_cream,IJs
+ice_cream,Ijs
 kindergarten,Kleuterschool
 library,Bibliotheek
 market,Markt
@@ -69,14 +69,14 @@ place_of_worship,Gebedsplaats
 police,Politie
 post_box,Brievenbus
 post_office,Postkantoor
-preschool,Peuterspeelzaal
+preschool,Kleuterklas
 preschool,Kleuterschool
 prison,Gevangenis
 pub,Café
 public_building,Openbaar gebouw
 public_market,Openbare markt
 reception_area,Receptie
-recycling,Recyclingpunt
+recycling,Containerpark
 recycling,Recyclage
 restaurant,Restaurant
 retirement_home,Bejaardentehuis
@@ -86,7 +86,7 @@ school,School
 shelter,Beschutting
 shop,Winkel
 shopping,Winkelen
-studio,Eenkamerappartement
+studio,Appartement
 studio,Studio
 supermarket,Supermarkt
 taxi,Taxi
@@ -228,7 +228,7 @@ common,Meent
 fishing,Visvijver
 garden,Tuin
 golf_course,Golfbaan
-ice_rink,IJsbaan
+ice_rink,Ijsbaan
 ice_rink,Ijspiste
 marina,Jachthaven
 miniature_golf,Minigolf
@@ -326,8 +326,8 @@ tram,Tramrails
 tram_stop,Tramhalte
 yard,Rangeerterrein
 alcohol,Slijterij
-apparel,Kledingwinkel
-art,Kunstwinkel
+apparel,Kleding
+art,Kunst
 bakery,Bakkerij
 beauty,Schoonheidssalon
 beverages,Frisdranken
@@ -338,7 +338,7 @@ car,Automaterialen
 car_dealer,Autodealer
 car_parts,Auto-onderdelen
 car_repair,Autogarage
-carpet,Tapijtzaak
+carpet,Tapijt
 charity,Liefdadigheid
 chemist,Apotheek
 clothes,Kleding
@@ -352,7 +352,7 @@ discount,Discount
 doityourself,Doe-het-zelf
 drugstore,Drogisterij
 dry_cleaning,Stomerij
-electronics,Elektronicawinkel
+electronics,Elektronica
 estate_agent,Makelaar
 farm,Boerderij
 fashion,Kleding
@@ -365,7 +365,7 @@ gallery,Galerie
 garden_centre,Tuincentrum
 general,Algemene winkel
 gift,Geschenken
-greengrocer,Groenteboer
+greengrocer,Groentewinkel
 grocery,Kruidenier
 hairdresser,Kapper
 hardware,Ijzerwaren
